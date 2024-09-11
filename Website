@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Md. Shahidul Alam's Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        a {
+            color: #1a73e8;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #555;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Md. Shahidul Alam</h1>
+        <p>Email: <a href="mailto:shahidulalam058@gmail.com">shahidulalam058@gmail.com</a></p>
+        <p>Phone: <a href="tel:+8801832372658">880 18323-72658</a></p>
+        <p>Location: Eidgha Munshipara, Chittagong, Bangladesh</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/shahidul-alam-0385822b8">linkedin.com/in/shahidul-alam-0385822b8</a></p>
+
+        <div class="section">
+            <div class="section-title">PROFILE</div>
+            <p>"As a recent graduate aspiring to excel as a Network Support Engineer, I have a solid foundation in network fundamentals and hands-on experience. I am dedicated to troubleshooting, configuring, and maintaining network systems, eager to leverage emerging technologies and collaborate with teams to ensure seamless operations and enhance security measures."</p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">EDUCATION</div>
+            <ul>
+                <li><strong>Bachelor of Business Studies</strong> - National University (Govt. Commerce College), Chattogram, Bangladesh | CGPA: 3.03/4.00</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">PROFESSIONAL COURSES</div>
+            <ul>
+                <li>IsDB-BISEW Scholarship program - Network Solution & System Administration (11/2023 – 09/2024) | Round-58, ID-1280981</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">SKILLS</div>
+            <ul>
+                <li><strong>CCNA:</strong> Expertise in Routing Protocols (RIP, Static, BGP, OSPF), Access Point Configuration, VLAN Configuration.</li>
+                <li><strong>MikroTik:</strong> Configuration, Wireless, Port Blocking with Firewall, Bridge Configuration, Queue Management, Load Balancing, and Failover.</li>
+                <li><strong>Windows Server 2019:</strong> ADDS, Group Policy, DNSSEC, VPN, DHCP Server and Scope Management.</li>
+                <li><strong>Red Hat Enterprise Linux:</strong> YUM configuration, SELinux, ACL, partitioning, NFS, SAMBA, DNS, MAIL, Apache server configuration, and firewall management.</li>
+                <li><strong>CompTIA A+:</strong> Hardware and network troubleshooting, system maintenance, OS installation, and configuration.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">PROFESSIONAL EXPERIENCE</div>
+            <ul>
+                <li><strong>Map Computer System - Technical Support Officer</strong> (03/2020 – 01/2021, Chattogram, Bangladesh): Network support, troubleshoot and resolve technical issues, maintain and configure network systems, and assist in the distribution of computer parts.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">INTERESTS</div>
+            <ul>
+                <li>Cybersecurity</li>
+                <li>Virtualization</li>
+                <li>Cloud Computing</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">CERTIFICATES</div>
+            <ul>
+                <li><strong>Introduction To Cybersecurity:</strong> Cisco's 'Introduction to Cyber Security' certification.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">PROJECTS</div>
+            <ul>
+                <li><strong>CISCO Projects:</strong> Implemented VPN, OSPF, NAT, BGP, HSRP, VLAN, ACL - <a href="https://shorturl.at/dJiBd">Project Link</a></li>
+                <li><strong>MIKROTIK Projects:</strong> Routing (RIP, BGP, PPPoE, OSPF), firewall rules, VPN - <a href="https://shorturl.at/4LYU9">Project Link</a></li>
+                <li><strong>Windows Server Projects:</strong> ADDS, Group Policy, DNSSEC, VPN, DHCP - <a href="https://shorturl.at/aHyBs">Project Link</a></li>
+                <li><strong>Red Hat Enterprise Linux:</strong> Apache, DNS, NFS, Samba - <a href="https://shorturl.at/G5Oev">Project Link</a></li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">REFERENCES</div>
+            <ul>
+                <li>A F M Bakabillah - Consultant, Show & Tell Consulting Ltd | Email: <a href="mailto:rbillah01@gmail.com">rbillah01@gmail.com</a> | Phone: 01955625240</li>
+                <li>Muhammad Tareq Musa - Sr. Technical Trainer, Macro Software Ltd. | Email: <a href="mailto:musatareqc1@gmail.com">musatareqc1@gmail.com</a> | Phone: 01674962416</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
